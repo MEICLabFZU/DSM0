@@ -1,0 +1,165 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'XTAL1'
+Slack : -13.101
+TNS   : -62341.326
+
+Type  : Slow 1100mV 85C Model Setup 'SWCLKTCK'
+Slack : -2.886
+TNS   : -167.762
+
+Type  : Slow 1100mV 85C Model Hold 'XTAL1'
+Slack : 0.283
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'SWCLKTCK'
+Slack : 0.375
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'SWCLKTCK'
+Slack : -5.602
+TNS   : -32.152
+
+Type  : Slow 1100mV 85C Model Recovery 'XTAL1'
+Slack : -2.179
+TNS   : -2997.775
+
+Type  : Slow 1100mV 85C Model Removal 'XTAL1'
+Slack : 0.568
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'SWCLKTCK'
+Slack : 0.715
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'XTAL1'
+Slack : -2.174
+TNS   : -14243.475
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SWCLKTCK'
+Slack : -0.394
+TNS   : -50.998
+
+Type  : Slow 1100mV 0C Model Setup 'XTAL1'
+Slack : -12.851
+TNS   : -60320.990
+
+Type  : Slow 1100mV 0C Model Setup 'SWCLKTCK'
+Slack : -2.817
+TNS   : -164.700
+
+Type  : Slow 1100mV 0C Model Hold 'XTAL1'
+Slack : 0.256
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'SWCLKTCK'
+Slack : 0.386
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'SWCLKTCK'
+Slack : -5.410
+TNS   : -30.085
+
+Type  : Slow 1100mV 0C Model Recovery 'XTAL1'
+Slack : -2.030
+TNS   : -2786.435
+
+Type  : Slow 1100mV 0C Model Removal 'XTAL1'
+Slack : 0.518
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'SWCLKTCK'
+Slack : 0.655
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'XTAL1'
+Slack : -2.174
+TNS   : -14326.955
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SWCLKTCK'
+Slack : -0.394
+TNS   : -48.671
+
+Type  : Fast 1100mV 85C Model Setup 'XTAL1'
+Slack : -7.685
+TNS   : -36108.493
+
+Type  : Fast 1100mV 85C Model Setup 'SWCLKTCK'
+Slack : -1.282
+TNS   : -66.623
+
+Type  : Fast 1100mV 85C Model Hold 'XTAL1'
+Slack : 0.168
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'SWCLKTCK'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'SWCLKTCK'
+Slack : -3.634
+TNS   : -11.553
+
+Type  : Fast 1100mV 85C Model Recovery 'XTAL1'
+Slack : -1.160
+TNS   : -1197.766
+
+Type  : Fast 1100mV 85C Model Removal 'XTAL1'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'SWCLKTCK'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'XTAL1'
+Slack : -2.174
+TNS   : -12895.606
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SWCLKTCK'
+Slack : -0.336
+TNS   : -25.552
+
+Type  : Fast 1100mV 0C Model Setup 'XTAL1'
+Slack : -6.869
+TNS   : -31598.138
+
+Type  : Fast 1100mV 0C Model Setup 'SWCLKTCK'
+Slack : -1.092
+TNS   : -54.681
+
+Type  : Fast 1100mV 0C Model Hold 'XTAL1'
+Slack : 0.155
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'SWCLKTCK'
+Slack : 0.172
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'SWCLKTCK'
+Slack : -3.009
+TNS   : -9.026
+
+Type  : Fast 1100mV 0C Model Recovery 'XTAL1'
+Slack : -0.903
+TNS   : -880.056
+
+Type  : Fast 1100mV 0C Model Removal 'XTAL1'
+Slack : 0.266
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'SWCLKTCK'
+Slack : 0.350
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'XTAL1'
+Slack : -2.174
+TNS   : -12901.206
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SWCLKTCK'
+Slack : -0.332
+TNS   : -25.373
+
+------------------------------------------------------------

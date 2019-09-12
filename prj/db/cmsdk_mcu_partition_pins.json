@@ -1,0 +1,157 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "XTAL2",
+					"strict" : false
+				},
+				{
+					"name" : "P0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[7]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[8]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[9]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[10]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[11]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[12]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[13]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[14]",
+					"strict" : false
+				},
+				{
+					"name" : "P0[15]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[8]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[9]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[10]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[11]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[12]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[13]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[14]",
+					"strict" : false
+				},
+				{
+					"name" : "P1[15]",
+					"strict" : false
+				},
+				{
+					"name" : "SWDIOTMS",
+					"strict" : false
+				},
+				{
+					"name" : "XTAL1",
+					"strict" : false
+				},
+				{
+					"name" : "NRST",
+					"strict" : false
+				},
+				{
+					"name" : "SWCLKTCK",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at cmsdk_uart_capture.v(134): always construct contains both blocking and non-blocking assignments File: D:/Project/FPGA/project/20190912DSM0/code/cmsdk_uart_capture.v Line: 134
